@@ -1,0 +1,7 @@
+print('Welcome to the political ideology test')
+print('')
+a=input('Question 1: what is your political ideology')
+print('')
+print('your political ideology is:',a)
+print('')
+print('thank you for taking the political ideology test')
